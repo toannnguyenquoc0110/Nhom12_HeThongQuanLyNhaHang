@@ -1,7 +1,8 @@
-bin/
-obj/
+﻿[Bb]in/
+[Oo]bj/
 .vs/
+.vscode/
 *.user
-*.db
+*.suo
 *.db-shm
 *.db-wal
